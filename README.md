@@ -21,7 +21,7 @@ This repository contains the source code for a classic Snake Game implemented in
 3. Run the Python script to start the game.
 
 ```bash
-python snake_game.py
+python Snake.py
 ```
 ## Contributors
 - **Arbaz**
