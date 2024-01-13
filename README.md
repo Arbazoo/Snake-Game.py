@@ -18,6 +18,11 @@ This repository contains the source code for a classic Snake Game implemented in
 ## Getting Started
 1. Clone the repository to your local machine.
 2. Ensure you have Python and Pygame installed.
+
+```bash
+pip install pygame
+```
+
 3. Run the Python script to start the game.
 
 ```bash
