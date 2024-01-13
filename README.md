@@ -17,6 +17,11 @@ This repository contains the source code for a classic Snake Game implemented in
 
 ## Getting Started
 1. Clone the repository to your local machine.
+
+```bash
+git clone https://github.com/Arbazoo/Snake-Game.py.git
+```
+
 2. Ensure you have Python and Pygame installed.
 
 ```bash
